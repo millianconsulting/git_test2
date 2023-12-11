@@ -1,1 +1,1 @@
-I am testing how GitHub status works 
+I am testing how GitHub status works, this time on my own.
